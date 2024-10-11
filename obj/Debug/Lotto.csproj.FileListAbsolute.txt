@@ -1,0 +1,7 @@
+C:\Users\zavarkoz\Git\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\zavarkoz\Git\Lotto\bin\Debug\Lotto.exe
+C:\Users\zavarkoz\Git\Lotto\bin\Debug\Lotto.pdb
+C:\Users\zavarkoz\Git\Lotto\obj\Debug\Lotto.csproj.AssemblyReference.cache
+C:\Users\zavarkoz\Git\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\zavarkoz\Git\Lotto\obj\Debug\Lotto.exe
+C:\Users\zavarkoz\Git\Lotto\obj\Debug\Lotto.pdb
